@@ -1,0 +1,6 @@
+{
+  "name": "Form Pembiayaan BMT UGT Nusantara",
+  "description": "Aplikasi formulir pembiayaan BMT UGT Nusantara terpadu dengan pengelolaan kantor & petugas (AOAP, KCP, AOSP, AOP) dan integrasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
